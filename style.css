@@ -1,0 +1,147 @@
+.foto {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(178, 205, 232);
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+
+.im1 {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.detail {
+    display: inline-flex;
+    gap: 20px;
+    text-decoration: none;
+    margin-top: 30px;
+    margin-right: 100px;
+    math-shift: right;
+    display: inline-flex;
+    float: right;
+}
+
+button {
+    opacity: .6s;
+    height: 30px;
+    width: 70px;
+    background-color: rgb(248, 186, 144);
+    border-radius: 5px;
+
+}
+
+.container {
+    background-color: none width 700px;
+    font-size: 2rem;
+    margin-left: 100px;
+    margin-top: 70px;
+    display: flex;
+    flex-direction: row;
+    overflow: hidden;
+
+}
+
+.innerbox {
+    background-color: none;
+    width: 700px;
+    margin-left: 100px
+}
+
+.b1 {
+    background-color: orange;
+    border-radius: 10px;
+    color: white;
+    width: 100PX;
+    height: 40PX;
+    margin-bottom: 30px;
+}
+
+.b2 {
+    background-color: rgb(11, 213, 41);
+    border-radius: 10px;
+    color: white;
+    margin-left: 30PX;
+    width: 100PX;
+    height: 40PX;
+    margin-bottom: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(91, 110, 205);
+}
+
+.xyz {
+    text-align: center;
+}
+
+.hk {
+    height: 300px;
+    width: 400px;
+    background-color: red;
+}
+
+.hk1 {
+    height: 300px;
+    width: 400px;
+    margin-left: 66%;
+
+}
+
+.xxy {
+    border-top-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    border: 3px solid aqua;
+    border-left-color: brown;
+    border-right-color: rgb(230, 174, 20);
+}
+
+.KHUs {
+    height: 450px;
+    width: 350px;
+    margin-left: 40px;
+    border-radius: 20px;
+    border: 3px solid rgb(65, 187, 220);
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.cardmb-3 {
+    display: inline-flex;
+}
+
+.card-title {
+    margin-left: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(235, 169, 169);
+}
+
+footer {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(86, 82, 82);
+    clear: both;
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+
+.bg {
+    background-image: url('https://images.unsplash.com/photo-1464618663641-bbdd760ae84a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8d2Vic2l0ZSUyMGJhY2tncm91bmR8ZW58MHx8MHx8fDA%3D&w=1000&q=80');
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    position: relative;
+}

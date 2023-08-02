@@ -1,0 +1,9 @@
+@import url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwebsite-background&psig=AOvVaw0f7lEB9nD7LWfM2IgrpT2A&ust=1691068517446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaoaaHvoADFQAAAAAdAAAAABAQ');
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    background-image: -o-repeating-linear-gradient('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-vector%2Fwebsite-background&psig=AOvVaw0f7lEB9nD7LWfM2IgrpT2A&ust=1691068517446000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjaoaaHvoADFQAAAAAdAAAAABAQ');
+
+}
